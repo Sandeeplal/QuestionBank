@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/questionbank.iml" filepath="$PROJECT_DIR$/.idea/modules/questionbank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/questionbank-build.iml" filepath="$PROJECT_DIR$/.idea/modules/questionbank-build.iml" />
+    </modules>
+  </component>
+</project>
